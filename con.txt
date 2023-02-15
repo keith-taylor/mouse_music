@@ -1,1 +1,1 @@
-A text for a con file.
+Some conflict text.
