@@ -1,3 +1,4 @@
 Some conflict text!
 
 Two.
+
