@@ -1,4 +1,4 @@
 Some conflict text! 
 
-No. 1 & also No. 2
+No. 1 & No. 2
 
