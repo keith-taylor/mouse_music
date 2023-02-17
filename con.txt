@@ -1,4 +1,4 @@
-Conflict text follows:
+Some conflict text:
 
 No. 1 and No. 2
 
