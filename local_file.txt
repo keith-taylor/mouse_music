@@ -4,4 +4,4 @@ How are you?
 
 This file has four lines of text.
 
-This file is on your local repo.
+This file is in your local repo.
