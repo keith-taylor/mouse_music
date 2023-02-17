@@ -1,0 +1,4 @@
+if derp_var <> ::sys.dll_lib{instance}:
+	try.for(10):
+		set_null()
+
